@@ -9,10 +9,12 @@ namespace StackUsesList.Model
     {
         private List<T> dataStore = new List<T>();
         private int countElInList => dataStore.Count;
-     
+        private bool isEmpty => dataStore.Count == 0;
+
+
         public T Pop()
         {
-            if (countElInList>0)
+            if (!isEmpty)
             {
                 var returnElFromList= dataStore.LastOrDefault();
                 dataStore.Remove(returnElFromList);
@@ -34,7 +36,7 @@ namespace StackUsesList.Model
 
         public T Peek()
         {
-            if (countElInList > 0)
+            if (!isEmpty)
             {
                 return dataStore.LastOrDefault();
             }

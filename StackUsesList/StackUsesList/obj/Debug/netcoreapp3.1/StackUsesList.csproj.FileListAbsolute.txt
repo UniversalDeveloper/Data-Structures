@@ -1,0 +1,14 @@
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\bin\Debug\netcoreapp3.1\StackUsesList.exe
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\bin\Debug\netcoreapp3.1\StackUsesList.deps.json
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\bin\Debug\netcoreapp3.1\StackUsesList.runtimeconfig.json
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\bin\Debug\netcoreapp3.1\StackUsesList.runtimeconfig.dev.json
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\bin\Debug\netcoreapp3.1\StackUsesList.dll
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\bin\Debug\netcoreapp3.1\StackUsesList.pdb
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\obj\Debug\netcoreapp3.1\StackUsesList.csproj.AssemblyReference.cache
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\obj\Debug\netcoreapp3.1\StackUsesList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\obj\Debug\netcoreapp3.1\StackUsesList.AssemblyInfoInputs.cache
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\obj\Debug\netcoreapp3.1\StackUsesList.AssemblyInfo.cs
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\obj\Debug\netcoreapp3.1\StackUsesList.csproj.CoreCompileInputs.cache
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\obj\Debug\netcoreapp3.1\StackUsesList.dll
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\obj\Debug\netcoreapp3.1\StackUsesList.pdb
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\obj\Debug\netcoreapp3.1\StackUsesList.genruntimeconfig.cache

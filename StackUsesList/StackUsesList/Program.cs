@@ -1,4 +1,5 @@
-﻿using System;
+﻿using StackUsesList.Model;
+using System;
 
 namespace StackUsesList
 {
@@ -6,7 +7,18 @@ namespace StackUsesList
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var stakList = new StackUsesList<int>();
+            stakList.Push(1 );
+            stakList.Push(2);
+            stakList.Push(3);
+            
+            for (int i = 0; i <3; i++)
+            {
+                var item = stakList.Peek();
+                Console.WriteLine(item);
+                stakList.Pop();
+            }
+           
         }
     }
 }
