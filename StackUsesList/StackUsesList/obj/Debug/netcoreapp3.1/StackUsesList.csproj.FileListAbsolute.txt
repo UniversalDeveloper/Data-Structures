@@ -12,3 +12,10 @@ C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUses
 C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\obj\Debug\netcoreapp3.1\StackUsesList.dll
 C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\obj\Debug\netcoreapp3.1\StackUsesList.pdb
 C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\obj\Debug\netcoreapp3.1\StackUsesList.genruntimeconfig.cache
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\bin\Debug\netcoreapp3.1\SophisticateStack.deps.json
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\bin\Debug\netcoreapp3.1\SophisticateStack.runtimeconfig.json
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\bin\Debug\netcoreapp3.1\SophisticateStack.runtimeconfig.dev.json
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\bin\Debug\netcoreapp3.1\SophisticateStack.exe
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\bin\Debug\netcoreapp3.1\SophisticateStack.dll
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\bin\Debug\netcoreapp3.1\SophisticateStack.pdb
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\StackUsesList\obj\Debug\netcoreapp3.1\StackUsesList.csproj.CopyComplete

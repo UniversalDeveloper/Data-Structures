@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackUsesList", "StackUsesList\StackUsesList.csproj", "{DB61ADD9-0F01-496A-9E2A-759CFB8BD6E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackUsesList", "StackUsesList\StackUsesList.csproj", "{DB61ADD9-0F01-496A-9E2A-759CFB8BD6E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SophisticateStack", "SoohisticateStack\SophisticateStack.csproj", "{1445EC49-B869-418E-91C3-4940A701D79D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DB61ADD9-0F01-496A-9E2A-759CFB8BD6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB61ADD9-0F01-496A-9E2A-759CFB8BD6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB61ADD9-0F01-496A-9E2A-759CFB8BD6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1445EC49-B869-418E-91C3-4940A701D79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1445EC49-B869-418E-91C3-4940A701D79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1445EC49-B869-418E-91C3-4940A701D79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1445EC49-B869-418E-91C3-4940A701D79D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

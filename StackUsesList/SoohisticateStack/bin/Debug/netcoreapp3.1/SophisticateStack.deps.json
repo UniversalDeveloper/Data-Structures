@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "StackUsesList/1.0.0": {
-        "dependencies": {
-          "SophisticateStack": "1.0.0"
-        },
-        "runtime": {
-          "StackUsesList.dll": {}
-        }
-      },
       "SophisticateStack/1.0.0": {
         "runtime": {
           "SophisticateStack.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "StackUsesList/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "SophisticateStack/1.0.0": {
       "type": "project",
       "serviceable": false,
