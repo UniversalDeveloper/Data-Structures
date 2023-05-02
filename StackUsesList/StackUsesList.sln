@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackUsesList", "StackUsesList\StackUsesList.csproj", "{DB61ADD9-0F01-496A-9E2A-759CFB8BD6E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SophisticateStack", "SoohisticateStack\SophisticateStack.csproj", "{1445EC49-B869-418E-91C3-4940A701D79D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SophisticateStack", "SoohisticateStack\SophisticateStack.csproj", "{1445EC49-B869-418E-91C3-4940A701D79D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{1D8B5F7D-6801-43B7-B606-DAFE7F0D3ACB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1445EC49-B869-418E-91C3-4940A701D79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1445EC49-B869-418E-91C3-4940A701D79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1445EC49-B869-418E-91C3-4940A701D79D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D8B5F7D-6801-43B7-B606-DAFE7F0D3ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D8B5F7D-6801-43B7-B606-DAFE7F0D3ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D8B5F7D-6801-43B7-B606-DAFE7F0D3ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D8B5F7D-6801-43B7-B606-DAFE7F0D3ACB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
