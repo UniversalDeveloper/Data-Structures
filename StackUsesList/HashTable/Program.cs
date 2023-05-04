@@ -19,7 +19,7 @@ namespace HashTable
 
 
 
-         it.ShowData("do2ww3");
+         it.ShowData("dww3");
 
             Console.WriteLine(it.Serch(str0));
         }
