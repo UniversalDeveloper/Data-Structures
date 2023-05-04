@@ -1,0 +1,14 @@
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\HashTableUsingCClass\bin\Debug\netcoreapp3.1\HashTableUsingCClass.exe
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\HashTableUsingCClass\bin\Debug\netcoreapp3.1\HashTableUsingCClass.deps.json
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\HashTableUsingCClass\bin\Debug\netcoreapp3.1\HashTableUsingCClass.runtimeconfig.json
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\HashTableUsingCClass\bin\Debug\netcoreapp3.1\HashTableUsingCClass.runtimeconfig.dev.json
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\HashTableUsingCClass\bin\Debug\netcoreapp3.1\HashTableUsingCClass.dll
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\HashTableUsingCClass\bin\Debug\netcoreapp3.1\HashTableUsingCClass.pdb
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\HashTableUsingCClass\obj\Debug\netcoreapp3.1\HashTableUsingCClass.csproj.AssemblyReference.cache
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\HashTableUsingCClass\obj\Debug\netcoreapp3.1\HashTableUsingCClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\HashTableUsingCClass\obj\Debug\netcoreapp3.1\HashTableUsingCClass.AssemblyInfoInputs.cache
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\HashTableUsingCClass\obj\Debug\netcoreapp3.1\HashTableUsingCClass.AssemblyInfo.cs
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\HashTableUsingCClass\obj\Debug\netcoreapp3.1\HashTableUsingCClass.csproj.CoreCompileInputs.cache
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\HashTableUsingCClass\obj\Debug\netcoreapp3.1\HashTableUsingCClass.dll
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\HashTableUsingCClass\obj\Debug\netcoreapp3.1\HashTableUsingCClass.pdb
+C:\Users\пк\Documents\projects on C#\Data Structures\Stack uses List\StackUsesList\HashTableUsingCClass\obj\Debug\netcoreapp3.1\HashTableUsingCClass.genruntimeconfig.cache

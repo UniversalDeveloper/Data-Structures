@@ -35,6 +35,17 @@ public SuperHashTable(int sizeArr)
           return item.GetHashCode() % items.Length;
         }
 
+        public void ShowData(T item)
+        {
+            var key = GetHash(item);
+            foreach (var itm in items[key].Node)
+            {
+                Console.WriteLine(itm);
+            }
+        
+        
+        
+        }
 
     }
 }
