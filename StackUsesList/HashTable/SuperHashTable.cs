@@ -22,16 +22,17 @@ public SuperHashTable(int sizeArr)
             items[key].Node.Add(item);        
         }
 
-        public Item<T> Serch(T item) 
+        public bool Serch(T item) 
         {
             var key = GetHash(item);
-            return items[key];
-
+             bool v1= items[key].Node.Contains(item);
+            return v1;
+            
 
         }
         public int GetHash (T item)
         {
-            return item.GetHashCode() % items.Length;
+          return item.GetHashCode() % items.Length;
         }
 
 

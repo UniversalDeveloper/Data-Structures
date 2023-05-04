@@ -6,12 +6,13 @@ namespace HashTable
     {
         static void Main(string[] args)
         {
-            SuperHashTable<int> it = new SuperHashTable<int>(5);
-
-            it.Add(9);
-            it.Add(9);
-
-            Console.WriteLine(it.Serch(9).ToString());
+            SuperHashTable<StringEnter> it = new SuperHashTable<StringEnter>(10);
+            var str = new StringEnter() { EnterStr = "one" };
+            it.Add(new StringEnter() { EnterStr = "cat" });
+            it.Add(new StringEnter() { EnterStr = "dog" });
+            it.Add(new StringEnter() { EnterStr = "dog" });
+            it.Add(str);
+            Console.WriteLine(it.Serch(str));
         }
     }
 }
