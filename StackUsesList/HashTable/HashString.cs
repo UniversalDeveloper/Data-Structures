@@ -28,7 +28,7 @@ namespace HashTable
             return v1;
         }
 
-        public void ShowData(String item)
+        public void ShowDataFromHashList(String item)
         {
             var key = GetHashCodeStr(item);
             foreach (var itm in items[key].Node)
@@ -49,6 +49,19 @@ namespace HashTable
             }
             res= hash % items.Length;
             return res;
+        }
+        public string[] Split(string enterString)
+        {
+            string[] splitRow = new string[enterString.Length];
+            splitRow = enterString.Split(new Char[] { ' ', ',', '.', '-', '\n', '\t' });
+
+            return splitRow;
+        }
+        public void ShowSplitRow(string[] splitRowArr)
+        {
+            foreach (string word in splitRowArr)
+                Console.WriteLine(word);
+
         }
     }
 }
